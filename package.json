@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "akrohn/tiny",
+  "repository": "aaronkrohn/tiny",
   "main": "index.js",
   "keywords": [
     "tiny",
